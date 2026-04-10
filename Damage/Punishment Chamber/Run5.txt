@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Punishment Chamber" )
+	call Preload( " " )
+	call Preload( "Newt#12554 - Phantom Assassin - Hell Hound: 4//Incarnated Hell Hound: 1//Boss: 3//Misc: 0" )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Hell Hound: 21//Incarnated Hell Hound: 19//Boss: 19//Misc: 0" )
+	call Preload( "waro#11441 - Arch Sage - Hell Hound: 11//Incarnated Hell Hound: 23//Boss: 12//Misc: 0" )
+	call Preload( "Tabi#11353 - Monster Hunter - Hell Hound: 31//Incarnated Hell Hound: 25//Boss: 24//Misc: 0" )
+	call Preload( "Regi#11520 - Prophetess - Hell Hound: 0//Incarnated Hell Hound: 0//Boss: 0//Misc: 0" )
+	call Preload( "Alyksandor#1773 - Mythsong - Hell Hound: 6//Incarnated Hell Hound: 7//Boss: 10//Misc: 0" )
+	call Preload( "Julipulga#1882 - Champion - Hell Hound: 1//Incarnated Hell Hound: 2//Boss: 5//Misc: 0" )
+	call Preload( "Andres1773#1133 - Sniper - Hell Hound: 16//Incarnated Hell Hound: 18//Boss: 21//Misc: 0" )
+	call Preload( "EldestOrion#1877 - Grand Templar - Hell Hound: 6//Incarnated Hell Hound: 0//Boss: 0//Misc: 0" )
+	call Preload( "merved#2889 - Stargazer - Hell Hound: 0//Incarnated Hell Hound: 2//Boss: 2//Misc: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

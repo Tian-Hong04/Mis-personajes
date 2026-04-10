@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Cursed Heaven" )
+	call Preload( " " )
+	call Preload( "tara#1195 - Avenger - Mobs: 6//Mini-boss: 3//Boss: 5//Nightmare Boss: 4" )
+	call Preload( "Nitaxe#21389 -  - Mobs: 0//Mini-boss: 0//Boss: 0//Nightmare Boss: 0" )
+	call Preload( "nayR#1184 - Monster Hunter - Mobs: 18//Mini-boss: 19//Boss: 14//Nightmare Boss: 13" )
+	call Preload( "Tabi#11353 - Monster Hunter - Mobs: 12//Mini-boss: 15//Boss: 10//Nightmare Boss: 9" )
+	call Preload( "Mage#31826 - Dark Arch Templar - Mobs: 40//Mini-boss: 21//Boss: 29//Nightmare Boss: 23" )
+	call Preload( "ClouD#1789 - Annihilator - Mobs: 3//Mini-boss: 29//Boss: 26//Nightmare Boss: 32" )
+	call Preload( "Drsgon#11969 - Lightbinder - Mobs: 8//Mini-boss: 3//Boss: 5//Nightmare Boss: 6" )
+	call Preload( "Alyksandor#1773 - Prophetess - Mobs: 0//Mini-boss: 0//Boss: 0//Nightmare Boss: 0" )
+	call Preload( "SrPalax#1830 - Stargazer - Mobs: 0//Mini-boss: 0//Boss: 0//Nightmare Boss: 1" )
+	call Preload( "AFunkSquared#1934 - Valkyrie - Mobs: 8//Mini-boss: 6//Boss: 8//Nightmare Boss: 6" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

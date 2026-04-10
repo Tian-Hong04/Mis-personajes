@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Chiral Valley" )
+	call Preload( " " )
+	call Preload( "tara#1195 - Phantom Assassin - Mobs: 14//Sigils: 27//Boss: 18//Misc: 0" )
+	call Preload( "AlexSunDar#2352 - Professional Witcher - Mobs: 6//Sigils: 5//Boss: 10//Misc: 0" )
+	call Preload( "Sanzhegg#2309 - Champion - Mobs: 6//Sigils: 2//Boss: 8//Misc: 0" )
+	call Preload( "Tabi#11353 - Monster Hunter - Mobs: 26//Sigils: 17//Boss: 13//Misc: 0" )
+	call Preload( "Regi#11520 - Prophetess - Mobs: 0//Sigils: 0//Boss: 0//Misc: 0" )
+	call Preload( "Julipulga#1882 - Annihilator - Mobs: 11//Sigils: 20//Boss: 17//Misc: 0" )
+	call Preload( "LarGa#2898 - Lightbinder - Mobs: 9//Sigils: 4//Boss: 5//Misc: 0" )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Mobs: 16//Sigils: 20//Boss: 18//Misc: 0" )
+	call Preload( "waro#11441 -  - Mobs: 0//Sigils: 0//Boss: 0//Misc: 0" )
+	call Preload( "AFunkSquared#1934 - Valkyrie - Mobs: 8//Sigils: 2//Boss: 6//Misc: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

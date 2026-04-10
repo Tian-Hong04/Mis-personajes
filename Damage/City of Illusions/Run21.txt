@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "City of Illusions" )
+	call Preload( " " )
+	call Preload( "Yuuri#11720 - Legion Revenant - Mobs: 23//Mini-boss: 18//Boss: 21//Illusions: 26" )
+	call Preload( "Jugador 2 -  - Mobs: 0//Mini-boss: 0//Boss: 0//Illusions: 0" )
+	call Preload( "Hemo#2778 - Hierophant - Mobs: 0//Mini-boss: 1//Boss: 1//Illusions: 1" )
+	call Preload( "YourIdolBro#1401 - Runic Werebear - Mobs: 0//Mini-boss: 7//Boss: 4//Illusions: 0" )
+	call Preload( "Andres1773#1133 - Summoner - Mobs: 20//Mini-boss: 6//Boss: 6//Illusions: 14" )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Mobs: 0//Mini-boss: 14//Boss: 11//Illusions: 8" )
+	call Preload( "Rieniare#1294 - Valkyrie - Mobs: 0//Mini-boss: 5//Boss: 5//Illusions: 5" )
+	call Preload( "dlink#11764 - Lightbinder - Mobs: 0//Mini-boss: 2//Boss: 1//Illusions: 5" )
+	call Preload( "TivoB#1421 - Legion Revenant - Mobs: 34//Mini-boss: 24//Boss: 32//Illusions: 26" )
+	call Preload( "Linken#11480 - Phantom Assassin - Mobs: 20//Mini-boss: 19//Boss: 14//Illusions: 11" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

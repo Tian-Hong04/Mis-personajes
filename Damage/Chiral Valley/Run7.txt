@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Chiral Valley" )
+	call Preload( " " )
+	call Preload( "Newt#12554 - Runic Werebear - Mobs: 5//Sigils: 7//Boss: 7//Misc: 0" )
+	call Preload( "ShadowDragon#1450246 - Summoner - Mobs: 16//Sigils: 9//Boss: 14//Misc: 0" )
+	call Preload( "Linken#11480 - Runic Werebear - Mobs: 6//Sigils: 7//Boss: 8//Misc: 0" )
+	call Preload( "Tabi#11353 - Monster Hunter - Mobs: 22//Sigils: 14//Boss: 18//Misc: 0" )
+	call Preload( "Regi#11520 - Prophetess - Mobs: 0//Sigils: 0//Boss: 0//Misc: 0" )
+	call Preload( "Alyksandor#1773 - Mythsong - Mobs: 2//Sigils: 1//Boss: 2//Misc: 0" )
+	call Preload( "Julipulga#1882 -  - Mobs: 0//Sigils: 0//Boss: 0//Misc: 0" )
+	call Preload( "dlink#11764 - Monster Hunter - Mobs: 32//Sigils: 15//Boss: 22//Misc: 0" )
+	call Preload( "c0il#21589 - Annihilator - Mobs: 7//Sigils: 26//Boss: 24//Misc: 0" )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Mobs: 6//Sigils: 16//Boss: 2//Misc: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

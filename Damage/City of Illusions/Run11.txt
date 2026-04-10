@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "City of Illusions" )
+	call Preload( " " )
+	call Preload( "Newt#12554 - Phantom Assassin - Mobs: 29//Mini-boss: 2//Boss: 4//Illusions: 4" )
+	call Preload( "Drsgon#11969 - Hierophant - Mobs: 0//Mini-boss: 0//Boss: 0//Illusions: 0" )
+	call Preload( "Smargoos#2396 - Prophetess - Mobs: 0//Mini-boss: 0//Boss: 0//Illusions: 0" )
+	call Preload( "Tabi#11353 - Grand Inquisitor - Mobs: 3//Mini-boss: 3//Boss: 2//Illusions: 4" )
+	call Preload( "AsSaSsiNQc#1262 - Monster Hunter - Mobs: 41//Mini-boss: 13//Boss: 15//Illusions: 28" )
+	call Preload( "Duus98#2739 - Demon Incarnate - Mobs: 17//Mini-boss: 3//Boss: 25//Illusions: 15" )
+	call Preload( "lazypablo#1601 - Runic Werebear - Mobs: 0//Mini-boss: 5//Boss: 4//Illusions: 0" )
+	call Preload( "c0il#21589 - Master Stalker - Mobs: 0//Mini-boss: 21//Boss: 9//Illusions: 5" )
+	call Preload( "TivoB#1421 - Runic Werewolf - Mobs: 0//Mini-boss: 22//Boss: 20//Illusions: 19" )
+	call Preload( "tara#1195 - Phantom Assassin - Mobs: 7//Mini-boss: 28//Boss: 17//Illusions: 20" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

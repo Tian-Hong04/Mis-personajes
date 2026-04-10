@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "City of Illusions" )
+	call Preload( " " )
+	call Preload( "Newt#12554 - Lightbinder - Mobs: 5//Mini-boss: 5//Boss: 6//Illusions: 12" )
+	call Preload( "EternalFrost#21699 - Sniper - Mobs: 3//Mini-boss: 1//Boss: 0//Illusions: 0" )
+	call Preload( "Xdk21#1775 - Sniper - Mobs: 17//Mini-boss: 9//Boss: 15//Illusions: 13" )
+	call Preload( "Tabi#11353 - Monster Hunter - Mobs: 25//Mini-boss: 16//Boss: 17//Illusions: 32" )
+	call Preload( "Tmarn#1214 - Master Stalker - Mobs: 0//Mini-boss: 10//Boss: 8//Illusions: 4" )
+	call Preload( "EldestOrion#1877 - Mythsong - Mobs: 0//Mini-boss: 1//Boss: 1//Illusions: 2" )
+	call Preload( "Drsgon#11969 - Valkyrie - Mobs: 0//Mini-boss: 8//Boss: 10//Illusions: 5" )
+	call Preload( "iLoveBudd#11358 - Phantom Assassin - Mobs: 1//Mini-boss: 28//Boss: 18//Illusions: 10" )
+	call Preload( "UncleDanny#1943 - Sniper - Mobs: 45//Mini-boss: 17//Boss: 21//Illusions: 18" )
+	call Preload( "merved#2889 - Valkyrie - Mobs: 0//Mini-boss: 1//Boss: 0//Illusions: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

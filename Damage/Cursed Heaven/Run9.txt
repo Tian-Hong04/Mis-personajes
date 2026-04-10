@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Cursed Heaven" )
+	call Preload( " " )
+	call Preload( "Newt#12554 -  - Mobs: 0//Mini-boss: 0//Boss: 0//Nightmare Boss: 0" )
+	call Preload( "c0il#21589 - Jounin - Mobs: 17//Mini-boss: 25//Boss: 27//Nightmare Boss: 22" )
+	call Preload( "tara#1195 - Phantom Assassin - Mobs: 24//Mini-boss: 20//Boss: 26//Nightmare Boss: 8" )
+	call Preload( "Tabi#11353 -  - Mobs: 0//Mini-boss: 0//Boss: 0//Nightmare Boss: 0" )
+	call Preload( "Regi#11520 - Rune Master - Mobs: 3//Mini-boss: 7//Boss: 5//Nightmare Boss: 5" )
+	call Preload( "Duus98#2739 - Prophetess - Mobs: 0//Mini-boss: 0//Boss: 0//Nightmare Boss: 0" )
+	call Preload( "Drsgon#11969 - Lightbinder - Mobs: 14//Mini-boss: 6//Boss: 7//Nightmare Boss: 9" )
+	call Preload( "ShadowDragon#1450246 - Summoner - Mobs: 13//Mini-boss: 16//Boss: 15//Nightmare Boss: 19" )
+	call Preload( "TivoB#1421 - Valkyrie - Mobs: 12//Mini-boss: 3//Boss: 6//Nightmare Boss: 10" )
+	call Preload( "iTzBriLLianT#21251 - Jounin - Mobs: 13//Mini-boss: 19//Boss: 11//Nightmare Boss: 24" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

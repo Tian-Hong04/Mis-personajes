@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "Dragon Fortress" )
+	call Preload( " " )
+	call Preload( "VongolaSquad#1817 - Legion Revenant - Dragon Egg: 11//Elemental Dragon: 15//Boss: 18//Etc: 0" )
+	call Preload( "Noob4Hire#1985 - Runic Werebear - Dragon Egg: 10//Elemental Dragon: 12//Boss: 17//Etc: 0" )
+	call Preload( "Newt#12554 - Mythsong - Dragon Egg: 6//Elemental Dragon: 6//Boss: 3//Etc: 0" )
+	call Preload( "Aviska#1170 - Monster Hunter - Dragon Egg: 6//Elemental Dragon: 15//Boss: 10//Etc: 0" )
+	call Preload( "DinGrogu#1733 - Professional Witcher - Dragon Egg: 47//Elemental Dragon: 31//Boss: 26//Etc: 0" )
+	call Preload( "Shadzhere#1858 -  - Dragon Egg: 0//Elemental Dragon: 0//Boss: 0//Etc: 0" )
+	call Preload( "Cloudiness#1244 -  - Dragon Egg: 0//Elemental Dragon: 0//Boss: 0//Etc: 0" )
+	call Preload( "Yuuri#11720 - Legion Revenant - Dragon Egg: 17//Elemental Dragon: 13//Boss: 23//Etc: 0" )
+	call Preload( "dlink#11764 - Hierophant - Dragon Egg: 0//Elemental Dragon: 0//Boss: 0//Etc: 0" )
+	call Preload( "Drsgon#11969 - Lightbinder - Dragon Egg: 0//Elemental Dragon: 5//Boss: 0//Etc: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

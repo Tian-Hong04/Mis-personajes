@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "City of Illusions" )
+	call Preload( " " )
+	call Preload( "Alyksandor#1773 - Mythsong - Mobs: 2//Mini-boss: 2//Boss: 3//Illusions: 4" )
+	call Preload( "NuckChorris#11653 - Valkyrie - Mobs: 0//Mini-boss: 5//Boss: 9//Illusions: 3" )
+	call Preload( "Equeske#2367 - White Wizard - Mobs: 14//Mini-boss: 31//Boss: 21//Illusions: 46" )
+	call Preload( "Molmor#1825 - Hierophant - Mobs: 0//Mini-boss: 0//Boss: 0//Illusions: 0" )
+	call Preload( "Julipulga#1882 - Champion - Mobs: 0//Mini-boss: 7//Boss: 7//Illusions: 2" )
+	call Preload( "mkserwer#21673 - Sky Sorceress - Mobs: 23//Mini-boss: 11//Boss: 13//Illusions: 5" )
+	call Preload( "Drsgon#11969 - White Wizard - Mobs: 19//Mini-boss: 8//Boss: 8//Illusions: 19" )
+	call Preload( "lazypablo#1601 - Runic Werebear - Mobs: 0//Mini-boss: 5//Boss: 5//Illusions: 0" )
+	call Preload( "bastilord#2246 - Sniper - Mobs: 40//Mini-boss: 20//Boss: 23//Illusions: 15" )
+	call Preload( "Bypanda#1983 - Runic Werebear - Mobs: 0//Mini-boss: 4//Boss: 6//Illusions: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "City of Illusions" )
+	call Preload( " " )
+	call Preload( "Byckas#2787 - Sniper - Mobs: 23//Mini-boss: 13//Boss: 12//Illusions: 6" )
+	call Preload( "Deaps#21618 - Avenger - Mobs: 0//Mini-boss: 3//Boss: 3//Illusions: 2" )
+	call Preload( "raww#21875 - Lightbinder - Mobs: 0//Mini-boss: 2//Boss: 3//Illusions: 6" )
+	call Preload( "Tabi#11353 - Monster Hunter - Mobs: 48//Mini-boss: 36//Boss: 29//Illusions: 36" )
+	call Preload( "Makaveli#2949 - Annihilator - Mobs: 5//Mini-boss: 16//Boss: 16//Illusions: 6" )
+	call Preload( "iOP#21594 - Sniper - Mobs: 9//Mini-boss: 9//Boss: 14//Illusions: 5" )
+	call Preload( "Drsgon#11969 - Lightbinder - Mobs: 4//Mini-boss: 8//Boss: 8//Illusions: 17" )
+	call Preload( "Jugador 8 -  - Mobs: 0//Mini-boss: 0//Boss: 0//Illusions: 0" )
+	call Preload( "DjmaxArkgnl#1328 - Arch Sage - Mobs: 6//Mini-boss: 9//Boss: 10//Illusions: 19" )
+	call Preload( "Jugador 10 -  - Mobs: 0//Mini-boss: 0//Boss: 0//Illusions: 0" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
