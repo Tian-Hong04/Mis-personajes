@@ -2,6 +2,13 @@ function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
 	call Preload( "Dragon Fortress Drop Details" )
+	call Preload( "banebu#2742 - Lightbinder - Dragon Tooth - " )
+	call Preload( "DinGrogu#1733 - Runic Werebear - Blessing of Dragon - " )
+	call Preload( "IBlackEyeI#21530 - Lightbinder - Dragon Tooth - " )
+	call Preload( "Tabi#11353 - Monster Hunter - Dragon Tooth - " )
+	call Preload( "Smargoos#2396 - Prophetess - Dragon Egg - " )
+	call Preload( "Drsgon#11969 - Valkyrie - Blessing of Dragon - " )
+	call Preload( "Linken#11480 - Monster Hunter - Dragon Egg - " )
 	call PreloadEnd( 0.0 )
 
 endfunction
