@@ -1,15 +1,7 @@
 function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
-	call Preload( "City of Illusions Drop Details" )
-	call Preload( "IBlackEyeI#21530 - Grand Inquisitor - Mantle of Darkness - " )
-	call Preload( "Smargoos#2396 - Prophetess - Mantle of Darkness - " )
-	call Preload( "Juinti#2323 - Mystic - Blessing of Darkness - " )
-	call Preload( "Drsgon#11969 - Dark Arch Templar - Mantle of Darkness - " )
-	call Preload( "M4tM#2473 - Professional Witcher - Blessing of Darkness - " )
-	call Preload( "EpicPlayr30K#1708 - Runic Werebear - Blessing of Darkness - " )
-	call Preload( "LarGa#2898 - Hierophant - Mantle of Darkness - " )
-	call Preload( "Cl0ne98#2678 - Rhapsody - Mantle of Darkness - " )
+	call Preload( "Dragon Fortress Drop Details" )
 	call PreloadEnd( 0.0 )
 
 endfunction
