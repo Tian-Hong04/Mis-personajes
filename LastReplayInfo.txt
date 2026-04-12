@@ -1,17 +1,15 @@
 function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
-	call Preload( "Punishment Chamber Drop Details" )
-	call Preload( "Newt#12554 - Phantom Assassin - Fire Lotus - Fire Lotus - Fire Demon - " )
-	call Preload( "Drsgon#11969 - Dark Arch Templar - Fire Demon - Fire Lotus - " )
-	call Preload( "waro#11441 - Arch Sage - Fire Lotus - Fire Lotus - Fire Demon - " )
-	call Preload( "Tabi#11353 - Monster Hunter - Fire Demon - Fire Lotus - Fire Lotus - Fire Lotus - " )
-	call Preload( "Regi#11520 - Prophetess - Fire Lotus - Fire Lotus - Fire Demon - " )
-	call Preload( "Alyksandor#1773 - Mythsong - Fire Demon - Fire Lotus - Fire Demon - " )
-	call Preload( "Julipulga#1882 - Champion - Fire Lotus - Fire Demon - Fire Lotus - " )
-	call Preload( "Andres1773#1133 - Sniper - Fire Demon - Fire Demon - Fire Lotus - " )
-	call Preload( "EldestOrion#1877 - Grand Templar - Fire Lotus - Fire Lotus - Fire Demon - " )
-	call Preload( "merved#2889 - Stargazer - Fire Demon - Fire Demon - Fire Demon - " )
+	call Preload( "City of Illusions Drop Details" )
+	call Preload( "IBlackEyeI#21530 - Grand Inquisitor - Mantle of Darkness - " )
+	call Preload( "Smargoos#2396 - Prophetess - Mantle of Darkness - " )
+	call Preload( "Juinti#2323 - Mystic - Blessing of Darkness - " )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Mantle of Darkness - " )
+	call Preload( "M4tM#2473 - Professional Witcher - Blessing of Darkness - " )
+	call Preload( "EpicPlayr30K#1708 - Runic Werebear - Blessing of Darkness - " )
+	call Preload( "LarGa#2898 - Hierophant - Mantle of Darkness - " )
+	call Preload( "Cl0ne98#2678 - Rhapsody - Mantle of Darkness - " )
 	call PreloadEnd( 0.0 )
 
 endfunction

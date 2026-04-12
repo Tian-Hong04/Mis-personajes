@@ -2,7 +2,10 @@ function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
 	call Preload( "" )
-call BlzSetAbilityTooltip(1097690227, "-NLRq-1Cw!-UdrM-GwJz-abjH-GlDF-Q7Pf-CDVa-m2od-H5Mf-g$^8-3yAY-uYH!-jq5h-oIK6-OGc1-OrIc-e&QS-qTlK-V5HI-STkz-Zbm8-5%lz-XhFi-82jI-2r$5-qHhv-umq2-WEXC-exfg-UTIN-hWZZ-$$%v-Vu&1-vt", 0)
+call BlzSetAbilityTooltip(1097690227, "-K%%n-IGa2-3TTj-n@!A-JFgV-nVsY-OSBf-Uh1K-YtNJ-Gk4l-kh#%-BhQ&-DEWn-fQnP-S81d-0&Ge-koFv-z&Ev-mnPl-rxNf-G@7Z-vLu$-qZN&-cwpr-oq1Y-dmaF-y9Vi-segz-wy%a-1!ik-RVmf-o7sh-1MGf-Vajh-5Qj@-DweO-pBmS-&XjJ-2$M4-OIF&-", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-tZI!-fFnp", 0)
 //" )
 	call Preload( "" )
 endfunction
