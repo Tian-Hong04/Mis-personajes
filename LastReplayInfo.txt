@@ -1,7 +1,15 @@
 function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
-	call Preload( "Punishment Chamber Drop Details" )
+	call Preload( "Chiral Valley Drop Details" )
+	call Preload( "Newt#12554 - Professional Witcher - Mirror Sigil - " )
+	call Preload( "AFunkSquared#1934 - Valkyrie - Mirror Sigil - " )
+	call Preload( "Tabi#11353 - Monster Hunter - Mirror Sigil - " )
+	call Preload( "Regi#11520 - Prophetess - Pure Sigil - " )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Pure Sigil - " )
+	call Preload( "Fleshas#2689 - Dark Arch Templar - Mirror Sigil - " )
+	call Preload( "Linken#11480 - Champion - Mirror Sigil - " )
+	call Preload( "Alyksandor#1773 - Mythsong - Pure Sigil - " )
 	call PreloadEnd( 0.0 )
 
 endfunction
