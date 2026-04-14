@@ -70,7 +70,7 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "        " )
 	call Preload( "Mysterious Sigils: 63" )
 	call Preload( "        " )
-	call Preload( "-l kmw&-DwMV-gV&$-6ICB-0Qnd-WT2F-Liwb-UlZ2-e7FW-aVeo-sY3z-wGxE-zIBF-HONG-c%Dh-OcGu-H%eT-zIzC-TgeJ-S!qw-asm&-12L2-eqvL-yvId-j9QP-%$RX-0u8g-TR3M-T4D4-HsgL-x6c#-5Y!Y-%uji-FfXG-0X%K-8vH$-n@y4-mslY-%4lp" )
+	call Preload( "-l kmw&-DwMV-gV&J-Z2so-iIbZ-rFa5-J@If-b&&Y-IeSE-FutP-b1!Z-ac8s-lp0j-Iyn7-LPXx-cjbr-sAcb-tFZM-6TSf-%bX$-&V3^-5GCb-PAK4-&hz3-6&&c-OoeC-jfVH-MWQh-xlSG-32%5-3j#v-y$UT-v54F-ct#T-gRFt-xz3J-JSFY-655Z-FrAK" )
 	call Preload( "        " )
 	call PreloadEnd( 0.0 )
 
