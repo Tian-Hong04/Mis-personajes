@@ -1,14 +1,16 @@
 function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
-	call Preload( "City of Illusions Drop Details" )
-	call Preload( "banebu#2742 - Runic Werebear - Blessing of Darkness - " )
-	call Preload( "Zuren#21485 - Lightbinder - Mantle of Darkness - " )
-	call Preload( "IBlackEyeI#21530 - Lightbinder - Blessing of Darkness - " )
-	call Preload( "Juinti#2323 - Mystic - Mantle of Darkness - " )
-	call Preload( "Drsgon#11969 - Dark Arch Templar - Mantle of Darkness - " )
-	call Preload( "ObiWanKnabis#11786 - Annihilator - Mantle of Darkness - " )
-	call Preload( "Molmor#1825 - Hierophant - Blessing of Darkness - " )
+	call Preload( "Dragon Fortress Drop Details" )
+	call Preload( "banebu#2742 - Lightbinder - Dragon Tooth - " )
+	call Preload( "Equeske#2367 - Avenger - Blessing of Dragon - " )
+	call Preload( "Drsgon#11969 - Demon Incarnate - Blessing of Dragon - " )
+	call Preload( "merved#2889 - Stargazer - Dragon Tooth - " )
+	call Preload( "Georgau#2130 - Annihilator - Dragon Egg - " )
+	call Preload( "Dazzer#21354 - Mythsong - Dragon Egg - " )
+	call Preload( "mkserwer#21673 - Sky Sorceress - Dragon Egg - " )
+	call Preload( "MLSpanky#1102 - Prophetess - Blessing of Dragon - " )
+	call Preload( "Azur#21859 - Master Stalker - Blessing of Dragon - " )
 	call PreloadEnd( 0.0 )
 
 endfunction
