@@ -1,17 +1,7 @@
 function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
-	call Preload( "City of Illusions Drop Details" )
-	call Preload( "Nitaxe#21389 - Stargazer - Blessing of Darkness - " )
-	call Preload( "Smargoos#2396 - Prophetess - Mantle of Darkness - " )
-	call Preload( "Lightstep#21762 - Professional Witcher - Blessing of Darkness - Blessing of Darkness - " )
-	call Preload( "bastilord#2246 - Sniper - Mantle of Darkness - " )
-	call Preload( "Drsgon#11969 - Hierophant - Blessing of Darkness - " )
-	call Preload( "ObiWanKnabis#11786 - Annihilator - Blessing of Darkness - " )
-	call Preload( "Гриша#2346 - Runic Werebear - Mantle of Darkness - " )
-	call Preload( "MLSpanky#1102 - Prophetess - Blessing of Darkness - " )
-	call Preload( "top#22192 - Lightbinder - Mantle of Darkness - " )
-	call Preload( "AguirreWrath#2677 - Paladin - Mantle of Darkness - " )
+	call Preload( "Chiral Valley Drop Details" )
 	call PreloadEnd( 0.0 )
 
 endfunction

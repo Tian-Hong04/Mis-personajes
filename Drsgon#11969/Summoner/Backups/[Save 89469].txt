@@ -29,7 +29,7 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "Stash2 Item 6:  " )
 	call Preload( "        " )
 	call Preload( "Stash3 Item 1: |cffFFD700Blessing of Darkness|r" )
-	call Preload( "Stash3 Item 2: |CFFFFdeadBeat|r" )
+	call Preload( "Stash3 Item 2:  " )
 	call Preload( "Stash3 Item 3:  " )
 	call Preload( "Stash3 Item 4:  " )
 	call Preload( "Stash3 Item 5:  " )
@@ -66,7 +66,7 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( "        " )
 	call Preload( "Mysterious Sigils: 2" )
 	call Preload( "        " )
-	call Preload( "-l H3&p-mQ$Z-!9%T-D$$X-r^3m-H&Fx-CaVo-^6fn-cWj1-FJhJ-lv^x-K&ZA-Nw9n-dUa0-kbtm-cvN6-QCyO-KYVf-AUdH-yVAq-5l1r-wEd5-T3Nm-YYvK-Grhc-VbiP-MA8J-kTeP-lfkz-tcbP-j#Jm-jfWg-lOoc-N5ES-d#4&" )
+	call Preload( "-l KWjZ-c&fk-!jEJ-60XV-#lih-jq5@-J9cw-$nXp-lLYi-iuOM-ZB5%-v5w1-X@oo-X5c$-6pHx-L8DT-Wx#f-DiNf-stQQ-^8UW-1Hda-3LNK-K$Do-f4zi-2p@f-vfQI-Kmlb-nvXH-3K%K-vwVo-86!C-b0a%-bkTB-@5$&-R3" )
 	call Preload( "        " )
 	call PreloadEnd( 0.0 )
 
