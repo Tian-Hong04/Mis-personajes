@@ -1,7 +1,14 @@
 function PreloadFiles takes nothing returns nothing
 
 	call PreloadStart()
-	call Preload( "Chiral Valley Drop Details" )
+	call Preload( "Dragon Fortress Drop Details" )
+	call Preload( "iLoveBudd#11358 - Phantom Assassin - Blessing of Dragon - " )
+	call Preload( "Drsgon#11969 - Dark Arch Templar - Dragon Tooth - " )
+	call Preload( "Alyksandor#1773 - Hierophant - Dragon Tooth - " )
+	call Preload( "Makaveli#2949 - Annihilator - Blessing of Dragon - " )
+	call Preload( "Juinti#2323 - Mystic - Blessing of Dragon - " )
+	call Preload( "MLSpanky#1102 - Prophetess - Dragon Tooth - Dragon Tooth - " )
+	call Preload( "Yuuri#11720 - Avenger - Dragon Tooth - Blessing of Dragon - " )
 	call PreloadEnd( 0.0 )
 
 endfunction
